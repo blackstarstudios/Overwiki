@@ -54,6 +54,11 @@ name - CURSED shark
 name - CURSED kraken
 Korpapri, Bellowvin - CURSED leviathan
 Blaskam, Wonder of the Depths - APOINTED deep leviathan
+- Cuthulu
+- Leviathan
+- Hippocampus (Horse fish)
+- Grindylow (Frog squid monster)
+- Loch Ness Monster
 
 # Subterranean
 Juggareth - ancient territory juggernaut
@@ -270,6 +275,58 @@ name - CURSED lich king
 Buthigoire, the Dishonored Majin - CURSED majin
 Modaraithu, the CURSED God - CURSED undead lightning dragon
 name - APOINTED death crow
+Vampire
+Dullahan
+Corpse Dragon
+Lich (Skeleton necromancer)
+Mummy (Desert Zombie)
+Living Armor (Possesed Armor)
+Zombie
+Nightmare (Sleep dream demon)
+Dragur (Frost warrior Zombie)
+Ghost
+Skeleton
+Ghoul (Strong zombie)
+Poltergeist (Ghost that posesses objects)
+Oni (Dead devil warrior)
+Black dog (Grave guarddog)
+Devil Bird (Death Bird)
+Revenant (Evil warrior ghost)
+Gashadokuro (Mega skelton)
+Bogeyman (Black mind demon)
+Wraith (Vengeful spirit)
+Reaper (Soul harvester)
+Lemures (Withering dryad)
+Shadow People
+Umibōzu (Giant sunken titan being)
+Wendigo (Vengeful animal spirit)
+Chindi (Evil soul)
+Anaye (Rememberance item possession spirit)
+Mokumokuren (illusion ghost)
+Jiangshi (Sorceror ghost)
+Wild Hunt (Dead summoner that brings a horde)
+Makhai (Black multi arm-knives fighter)
+Hysminai (Female black knight ghoul)
+Jorōgumo (Ghost spider woman)
+Bake-kujira (Ghost whale)
+- Nuckelavee (Undead horse)
+- Vetala (Vampire corpse bat)
+- Barghest (Ghoul dog)
+- Banshee (vengeful female ghost)
+- Kodama (Wandering ghost)
+- Nukekubi (Head ghost)
+- Stiff-Legged Bear (Giant bear ghoul)
+- Cu Sith Hellhound (Giant green skull ghoul wolf)
+- Cat-sìth (Death cat)
+- Kasha (Flaming graverobbing lionkin ghoul)
+- Sin-you (Green ghoul unicorn)
+- Kun (Giant floating shark ghast)
+- Noppera-bō (faceless ghoul)
+- Chonchon (Flying head ghoul)
+- Bakeneko (Giant cat ghoul)
+- Keres (Flying female reaper)
+- Kuchisake-onna (Beautiful female nightmare spirit)
+- Futakuchi-onna (demon woman w/ hair devil)
 
 # Spectral
 1. ghost
@@ -394,7 +451,7 @@ Law Guardian - Griffin
 War Guardian - Bull Behemoth
 Wise Guardian - Turtle
 Love Guardian - Dove
-Forge Guardian - Phoonix
+Forge Guardian - Phoenix
 Trade Guardian - Pig
 Luck Guardian - Fox
 Hunt Guardian - Bear
@@ -415,7 +472,6 @@ Chaos Guardian
 Death Guardian - Crow
 Hezgaur Shogrinn Guardian - Cerberus
 Mark of The End - Black Being
-
 name - CURSED shark
 name - CURSED spider queen
 name - CURSED gator
@@ -477,109 +533,6 @@ name - Wendigo Bone thorn devil
 name - Yggdrasil world tree
 name - CURSED Black Desert Cobra w/ petrification
 
-Vampire
-Dullahan
-Corpse Dragon
-Lich (Skeleton necromancer)
-Mummy (Desert Zombie)
-Living Armor (Possesed Armor)
-
----
-
-### Monster
-Zombie
-
----
-
-### Monster
-Nightmare (Sleep dream demon)
-
----
-
-### Monster
-Dragur (Frost warrior Zombie)
-
----
-
-### Monster
-Ghost
-
----
-
-### Monster
-Skeleton
-
----
-
-### Monster
-Ghoul (Strong zombie)
-
----
-
-### Monster
-Poltergeist (Ghost that posesses objects)
-
----
-
-### Monster
-Oni (Dead devil warrior)
-
----
-
-### Monster
-Black dog (Grave guarddog)
-
----
-
-### Monster
-Devil Bird (Death Bird)
-
----
-
-### Monster
-Revenant (Evil warrior ghost)
-Gashadokuro (Mega skelton)
-Bogeyman (Black mind demon)
-Wraith (Vengeful spirit)
-Reaper (Soul harvester)
-Lemures (Withering dryad)
-Shadow People
-Umibōzu (Giant sunken titan being)
-Wendigo (Vengeful animal spirit)
-Chindi (Evil soul)
-Anaye (Rememberance item possession spirit)
-Mokumokuren (illusion ghost)
-Jiangshi (Sorceror ghost)
-Wild Hunt (Dead summoner that brings a horde)
-Makhai (Black multi arm-knives fighter)
-Hysminai (Female black knight ghoul)
-Jorōgumo (Ghost spider woman)
-Bake-kujira (Ghost whale)
-- Nuckelavee (Undead horse)
-- Vetala (Vampire corpse bat)
-- Barghest (Ghoul dog)
-- Banshee (vengeful female ghost)
-- Kodama (Wandering ghost)
-- Nukekubi (Head ghost)
-- Stiff-Legged Bear (Giant bear ghoul)
-- Cu Sith Hellhound (Giant green skull ghoul wolf)
-- Cat-sìth (Death cat)
-- Kasha (Flaming graverobbing lionkin ghoul)
-- Sin-you (Green ghoul unicorn)
-- Kun (Giant floating shark ghast)
-- Noppera-bō (faceless ghoul)
-- Chonchon (Flying head ghoul)
-- Bakeneko (Giant cat ghoul)
-- Keres (Flying female reaper)
-- Kuchisake-onna (Beautiful female nightmare spirit)
-- Futakuchi-onna (demon woman w/ hair devil)
-
-- Cuthulu
-- Leviathan
-- Hippocampus (Horse fish)
-- Grindylow (Frog squid monster)
-- Loch Ness Monster
-- 
 - Shen (Trickster Sea dragon)
 - Akhlut (Shark/orca beast)
 - Tizheruk (large artic devil eel)
@@ -591,164 +544,39 @@ Bake-kujira (Ghost whale)
 - Cai Cai-Vilu (Draconic eel)
 - Ala (Mist sea serpent)
 
-## Known Beasts
 
-### Monster
 Turtle
 
----
-
-### Monster
 Swordfish
-
----
-
-### Monster
 Shark
-
----
-
-### Monster
 Whale
-
----
-
-### Monster
 Dolphin
-
----
-
-### Monster
 Orca
-
----
-
-### Monster
 Squid
-
----
-
-### Monster
 Octopus
-
----
-
-### Monster
 Swordfish
-
----
-
-### Monster
 Bass
-
----
-
-### Monster
 Salmon
-
----
-
-### Monster
 Eel
-
----
-
-### Monster
 Pretty Fish
-
----
-
-### Monster
 Poisonfish
-
----
-
-### Monster
 Bluedragon
-
----
-
-### Monster
 Jellyfish
-
----
-
-### Monster
 Angler
-
----
-
-### Monster
 Manta Ray
-
----
-
-### Monster
 Crab
-
----
-
-### Monster
 Shrimp
-
----
-
-### Monster
 Lobster
-
----
-
-### Monster
 Large Fish
-
----
-
-### Monster
 Hammer Shark
-
----
-
-### Monster
 Mini Shark
-
----
-
-### Monster
 Mantis Shrimp
-
----
-
-### Monster
 Rockfish
-
----
-
-### Monster
 Pufferfish
-
----
-
-### Monster
 Schoolfish
-
----
-
-### Monster
 Catfish
-
----
-
-### Monster
 World Turtle (Island turtle)
-
----
-
-### Monster
 Karkinos (Giant terror Crab)
-
----
-
-### Monster
 Morgawr (Pleisiasur-like beast)
 
 ---
