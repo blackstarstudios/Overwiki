@@ -57,6 +57,10 @@ Blaskam, Wonder of the Depths - APOINTED deep leviathan
 
 # Subterranean
 Juggareth - ancient territory juggernaut
+Worm
+Mole
+Death Worm
+Camazotz (Ancient Bat)
 
 # Insects
 1. worm-death
@@ -142,6 +146,46 @@ Bahrehmna, That Who Clawed Out of Hell - Evil Hellfire Dragon
 name - APOINTED great basilisk
 name - APOINTED grand turtr
 Kesisumera, the One Who Claims the Sky - APOINTED atmospheric dragon
+- Mokele-mbembe (Spiked bronto)
+- Bakunawa (Eel-like dragon)
+- Lindworm (Quilled mountain snake)
+Snake
+Salamander (Fire breathing lizard)
+Lizard
+Basilisk (Evil snake)
+Turtle
+Gator
+Cipactli (Stone gator)
+Níðhöggr (metal drake)
+Sand lizard devil
+Hoop snake (metal snake that attacks with rolling)
+Peluda (Quilled lizard)
+Tarasque (Juggernaut turtle beast)
+Garafena (Gold snake)
+Mungoon-Gali (Giant komodo lizard)
+Grootslang (horned snake)
+Chinese dragon (long cloud dragon)
+Gila (poison lizard)
+Tarand (Horned wyvern)
+Azhi Dahaka (3 headed dragon)
+Amphisbaena (Winged desert basilisk)
+Komodo (Land dragon)
+Hydra (multi headed snake dragon)
+Amphithere (thin long snake dragon)
+Whowie (Slender aggressive cave lizard)
+Jiaolong (Dragon headed forest horse/lizard)
+Dingonek (Spiked lizard)
+Mirage Lizard
+name - Bai Ze Giant white cloud dragon
+name - multi elemental-heads dragon
+name - Fire Dragon Red/Orange
+name - Earth Dragon Brown/Green
+name - Water Dragon Blue
+name - Storm Dragon Purple/Blue/Yellow
+name - Ice Dragon Blue/White
+name - Dark Dragon Black
+name - Light Dragon White
+name - Good Air Dragon
 
 # Amorphous
 1. slime
@@ -156,6 +200,25 @@ name - CURSED slime king
 1. tree
 name - Yggdrasil world tree
 Yinnigur, the Ending Tree - CURSED elder tree
+Tree
+Rose
+Flower
+Dryad
+Cactus
+Mandrake (Living vegtable)
+Ghillie Dhu (Forest protector)
+Spriggan (Magic forest plant sorceror)
+Live Vines
+Flytrap
+Snake Tree (Agressive poison tree)
+Alraune (plant woman trap)
+Hamadryad (withering tree spirit)
+Vegetable Lamb of Tartary (Prey trick plant)
+Ent
+Jubokko (Evil tree titan)
+Swamp monster (Bog yeti)
+Wendigo (Bone thorn devil)
+Yggdrasil
 
 # Geological
 1. gargoyle
@@ -165,6 +228,7 @@ name - CURSED deity statue
 name - Chinese stone guardian lion Twin spirit guard
 name - Chinese stone guardian lion Twin spirit guard
 Wemnyaor, the Restless King - CURSED awakened hearld statue
+Ferrolon The ferrolon is a metal winged lyeon beast that is summoned to protect antient mountain temples and dungeons.
 
 # Metallic
 
@@ -249,6 +313,30 @@ name - top fire spirit
 Orapyre, the Unpure Flame - CURSED fire spirit
 name - APOINTED ten tails
 name - APOINTED divine spirit
+Phantom cat (Lionkin spirit)
+Will-o'-the-wisp (Grave spirit)
+Djinn (Genie)
+Pixie
+Familiar (Magic animal spirit)
+Yokai (Evil spirit)
+Kitsune (Fox spirit) 
+Sandman (Dream spirit)
+Tsukumogami (Spirits that possecess objects that come to life, of their own accord)
+Saci (Black djinn)
+Nephele (cloud/weather spirit)
+Zduhać (Mountain spirit)
+Huli jing (Kitsune spirit woman)
+Asteriae (Star garden spirit)
+Shen (Holy mountain spirit)
+Ifrit (top fire spirit)
+Undine (high water spirit)
+- Phoenix (high fire spirit)
+- Huma bird (Twin-headed/elements (storm+fire) spirit)
+- Lampad (High light spirit)
+- Bluecap (Bluefire spirit)
+- Amefurikozō (Rain spirit)
+- Buggane (Giant lightning juggernaut)
+- Nix (Moon dark spirit)
 
 # Astronomical
 
@@ -294,101 +382,28 @@ White Being, the Supreme One's Seal - APOINTED celestial body
 1. spectre
 Zhillegoh, the Living Prison - APOINTED dimensional squid
 Thing, it lives. - APOINTED thing
-
----
-
-[Previous Page](/start.md) | [Next Page](beasts.md)
-
-## Introduction
-Guardians are the caretakers of the realms that their Lords have crafted
-
-##
-Supreme One's Seal
-- White Being
-
-## Gelalios
-Bahanna Guardian
-- Pegasus
-
-##
-Time Guardian
-- Spider 
-
-## 
-Teorlan Magic Guardian
-- Fairy
-
-## 
+Supreme One's Seal - White Being
+Gelalios Bahanna Guardian - Pegasus
+Time Guardian - Spider 
+Teorlan Magic Guardian - Fairy
 Borealis Dream Guardian
-- 
-
-## Kesisumera
-Estean Sky Guardian
-- Original Dragon
-
-## Mahmu
-Estean Land Guardian
-- Terrelyon
-
-## Blaskam
-Estean Sea Guardian
-- Leviathan
-
-##
-Law Guardian
-- Griffin
-
-##
-War Guardian
-- Bull Behemoth
-
-##
-Wise Guardian
-- Turtle
-
-##
-Love Guardian
-- Dove
-
-##
-Forge Guardian
-- Phoonix
-
-##
-Trade Guardian
-- Pig
-
-##
-Luck Guardian
-- Fox
-
-##
-Hunt Guardian
-- Bear
-
-##
+Kesisumera Estean Sky Guardian - Original Dragon
+Mahmu Estean Land Guardian - Terrelyon
+Blaskam Estean Sea Guardian - Leviathan
+Law Guardian - Griffin
+War Guardian - Bull Behemoth
+Wise Guardian - Turtle
+Love Guardian - Dove
+Forge Guardian - Phoonix
+Trade Guardian - Pig
+Luck Guardian - Fox
+Hunt Guardian - Bear
 Medicine Guardian
-- 
-
-##
-Pride Guardian
-- Wolf
-
-##
+Pride Guardian - Wolf
 Wrath Guardian
-- 
-
-##
-Witch Guardian
-- Black Cat
-
-##
+Witch Guardian - Black Cat
 Lust Guardian
-- 
-
-##
-Sloth Guardian
-- Sloth
+Sloth Guardian - Sloth
 Nightmare Guardian
 Greed Guardian - Basilisk
 Misfortune Guardian
@@ -400,510 +415,6 @@ Chaos Guardian
 Death Guardian - Crow
 Hezgaur Shogrinn Guardian - Cerberus
 Mark of The End - Black Being
-
-Tree
-
----
-
-### Monster
-Rose
-
----
-
-### Monster
-Flower
-
----
-
-### Monster
-Dryad
-
----
-
-### Monster
-Cactus
-
----
-
-### Monster
-Mandrake (Living vegtable)
-
----
-
-### Monster
-Ghillie Dhu (Forest protector)
-
----
-
-### Monster
-Spriggan (Magic forest plant sorceror)
-
----
-
-### Monster
-Live Vines
-
----
-
-### Monster
-Flytrap
-
----
-
-### Monster
-Snake Tree (Agressive poison tree)
-
----
-
-### Monster
-Alraune (plant woman trap)
-
----
-
-### Monster
-Hamadryad (withering tree spirit)
-
----
-
-### Monster
-Vegetable Lamb of Tartary (Prey trick plant)
-
----
-
-### Monster
-Ent
-
----
-
-### Monster
-Jubokko (Evil tree titan)
-
----
-
-### Monster
-Swamp monster (Bog yeti)
-
-
-<br/>
-
-
-## Named Beasts
-
-
-### Monster
-Wendigo (Bone thorn devil)
-
----
-
-### Monster
-Yggdrasil
-
-- Mokele-mbembe (Spiked bronto)
-- Bakunawa (Eel-like dragon)
-- Lindworm (Quilled mountain snake)
-
-## Known Beasts
-### Monster
-Drake (Low Dragon)
-
----
-
-### Monster
-Wyvern (Mid dragon)
-
----
-
-### Monster
-Dragon (True dragon)
-
----
-
-### Monster
-Snake
-
----
-
-### Monster
-Salamander (Fire breathing lizard)
-
----
-
-### Monster
-Lizard
-
----
-
-### Monster
-Basilisk (Evil snake)
-
----
-
-### Monster
-Turtle
-
----
-
-### Monster
-Gator
-
----
-
-### Monster
-Cipactli (Stone gator)
-
----
-
-### Monster
-Níðhöggr (metal drake)
-
----
-
-### Monster
-Sand lizard devil
-
----
-
-### Monster
-Hoop snake (metal snake that attacks with rolling)
-
----
-
-### Monster
-Peluda (Quilled lizard)
-
----
-
-### Monster
-Tarasque (Juggernaut turtle beast)
-
----
-
-### Monster
-Garafena (Gold snake)
-
----
-
-### Monster
-Mungoon-Gali (Giant komodo lizard)
-
----
-
-### Monster
-Grootslang (horned snake)
-
----
-
-### Monster
-Chinese dragon (long cloud dragon)
-
----
-
-### Monster
-Gila (poison lizard)
-
----
-
-### Monster
-Tarand (Horned wyvern)
-
----
-
-### Monster
-Azhi Dahaka (3 headed dragon)
-
----
-
-### Monster
-Amphisbaena (Winged desert basilisk)
-
----
-
-### Monster
-Komodo (Land dragon)
-
----
-
-### Monster
-Hydra (multi headed snake dragon)
-
----
-
-### Monster
-Amphithere (thin long snake dragon)
-
----
-
-### Monster
-Whowie (Slender aggressive cave lizard)
-
----
-
-### Monster
-Jiaolong (Dragon headed forest horse/lizard)
-
----
-
-### Monster
-Dingonek (Spiked lizard)
-
----
-
-### Monster
-Mirage Lizard
-
-- Phantom cat (Lionkin spirit)
-
-## Introduction
-
-
-## Known Beasts
-### Monster
-Will-o'-the-wisp (Grave spirit)
-
----
-
-### Monster
-Djinn (Genie)
-
----
-
-### Monster
-Pixie
-
----
-
-### Monster
-Familiar (Magic animal spirit)
-
----
-
-### Monster
-Yokai (Evil spirit)
-
----
-
-### Monster
-Kitsune (Fox spirit) 
-
----
-
-### Monster
-Sandman (Dream spirit)
-
----
-
-### Monster
-Tsukumogami (Spirits that possecess objects that come to life, of their own accord)
-
----
-
-### Monster
-Saci (Black djinn)
-
----
-
-### Monster
-Nephele (cloud/weather spirit)
-
----
-
-### Monster
-Zduhać (Mountain spirit)
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
-
-<br/>
-
-
-## Named Beasts
-
-### Monster 
-The sphinx is a desert guardian that is summoned to protect precious ancient desert dungeons and tombs. They have the special ability of self petrification that allows it to maintain its lifespan for centuries.
-
----
-
-### Ferrolon
-The ferrolon is a metal winged lyeon beast that is summoned to protect antient mountain temples and dungeons.
-
----
-
-### Monster
-Huli jing (Kitsune spirit woman)
-
----
-
-### Monster
-Asteriae (Star garden spirit)
-
----
-
-### Monster
-Shen (Holy mountain spirit)
-
-
-### Monster
-Ifrit (top fire spirit)
-
----
-
-### Monster
-Undine (high water spirit)
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
-- Phoenix (high fire spirit)
-- 
-- 
-- Huma bird (Twin-headed/elements (storm+fire) spirit)
-- Lampad (High light spirit)
-- Bluecap (Bluefire spirit)
-- Amefurikozō (Rain spirit)
-- Buggane (Giant lightning juggernaut)
-- Nix (Moon dark spirit)
-
-Worm
-
----
-
-### Monster
-Mole
-
----
-
-### Monster
-Death Worm
-
----
-
-### Monster
-Bat
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
-
-<br/>
-
-
-## Named Beasts
-
-
-### Monster
-Camazotz (Ancient Bat)
 
 name - CURSED shark
 name - CURSED spider queen
@@ -950,12 +461,10 @@ name - APOINTED holy butterfly
 name - APOINTED eye spider
 Blaskam, Wonder of the Depths - APOINTED deep leviathan
 Mahmu, the King of Earth - APOINTED earth lion
-
 name - APOINTED divine spirit
 name - APOINTED lightened monke
 Gelalios, the Holy Steed - APOINTED pegasus
 White Being, the Supreme One's Seal - APOINTED celestial body
-
 Juggareth - ancient territory juggernaut
 name - Azure Dragon Blue storm dragon
 name - Chinese Dragon Green sky dragon
@@ -967,42 +476,12 @@ name - Sun Wukong monkey warrior
 name - Wendigo Bone thorn devil
 name - Yggdrasil world tree
 name - CURSED Black Desert Cobra w/ petrification
-name - Bai Ze Giant white cloud dragon
-name - multi elemental-heads dragon
-name - Fire Dragon Red/Orange
-name - Earth Dragon Brown/Green
-name - Water Dragon Blue
-name - Storm Dragon Purple/Blue/Yellow
-name - Ice Dragon Blue/White
-name - Dark Dragon Black
-name - Light Dragon White
-name - Good Air Dragon
 
 Vampire
-
----
-
-### Monster
 Dullahan
-
----
-
-### Monster
 Corpse Dragon
-
----
-
-### Monster
 Lich (Skeleton necromancer)
-
----
-
-### Monster
 Mummy (Desert Zombie)
-
----
-
-### Monster
 Living Armor (Possesed Armor)
 
 ---
@@ -1059,197 +538,23 @@ Devil Bird (Death Bird)
 
 ### Monster
 Revenant (Evil warrior ghost)
-
----
-
-### Monster
 Gashadokuro (Mega skelton)
-
----
-
-### Monster
 Bogeyman (Black mind demon)
-
----
-
-### Monster
 Wraith (Vengeful spirit)
-
----
-
-### Monster
 Reaper (Soul harvester)
-
----
-
-### Monster
 Lemures (Withering dryad)
-
----
-
-### Monster
 Shadow People
-
----
-
-### Monster
 Umibōzu (Giant sunken titan being)
-
----
-
-### Monster
 Wendigo (Vengeful animal spirit)
-
----
-
-### Monster
 Chindi (Evil soul)
-
----
-
-### Monster
 Anaye (Rememberance item possession spirit)
-
----
-
-### Monster
 Mokumokuren (illusion ghost)
-
----
-
-### Monster
 Jiangshi (Sorceror ghost)
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
-
-<br/>
-
-
-## Named Beasts
-
-
-### Monster
 Wild Hunt (Dead summoner that brings a horde)
-
----
-
-### Monster
 Makhai (Black multi arm-knives fighter)
-
----
-
-### Monster
 Hysminai (Female black knight ghoul)
-
----
-
-### Monster
 Jorōgumo (Ghost spider woman)
-
----
-
-### Monster
 Bake-kujira (Ghost whale)
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
 - Nuckelavee (Undead horse)
 - Vetala (Vampire corpse bat)
 - Barghest (Ghoul dog)
