@@ -45,6 +45,42 @@ name - APOINTED elder owl
 name - APOINTED phoenix
 name - APOINTED hunting hawk
 name - APOINTED mare peacock
+Mountain Hawk
+Healing Bird
+Duck
+Flamingo
+Crane
+Goose
+Hawk
+Desert Scavenger
+Shield Bird
+Flare hawk
+Poisonous Bird
+Nachtkrapp (Golem vulture)
+Gagana (Steeled bird)
+Bennu (Desert crane)
+Roc (Giant hawk)
+Three-legged bird (3 leg crow)
+anqa (4-winged keeper)
+Vermilion Bird (Blood red bird)
+Rain Bird (blue bird that culls storms)
+Double-headed eagle (Twin headed bird)
+Quadzal 
+The quadzel is a giant bird that has the split ability of controlling 2
+Vucub Caquix (large evil Jungle parrot)
+Hummingbird
+Raven
+Crow
+Robin
+Bluejay
+Parrot
+Griffin
+Alicagel 
+Fengzak 
+Rordmadra
+Jirreun
+Gowineyes 
+Błudnik
 
 # Aquatic
 1. shark
@@ -100,6 +136,16 @@ Kraken BOSS
 Makara (Serpent dragon)
 Bahamut (world whale)
 Charybdis
+- Shen (Trickster Sea dragon)
+- Akhlut (Shark/orca beast)
+- Tizheruk (large artic devil eel)
+- Underwater panther (Evil cat fish)
+- Abaia (Giant eel)
+- Pisces (Twin fish guardians)
+- Ika-Roa (Deep sea long shark fish)
+- Shachihoko (Beast fish)
+- Cai Cai-Vilu (Draconic eel)
+- Ala (Mist sea serpent)
 
 # Subterranean
 Juggareth - ancient territory juggernaut
@@ -392,6 +438,10 @@ Bake-kujira (Ghost whale)
 - Keres (Flying female reaper)
 - Kuchisake-onna (Beautiful female nightmare spirit)
 - Futakuchi-onna (demon woman w/ hair devil)
+Chimera
+Automaton
+Golem
+Homunculus 
 
 # Spectral
 1. ghost
@@ -598,37 +648,7 @@ name - Wendigo Bone thorn devil
 name - Yggdrasil world tree
 name - CURSED Black Desert Cobra w/ petrification
 
-- Shen (Trickster Sea dragon)
-- Akhlut (Shark/orca beast)
-- Tizheruk (large artic devil eel)
-- Underwater panther (Evil cat fish)
-- Abaia (Giant eel)
-- Pisces (Twin fish guardians)
-- Ika-Roa (Deep sea long shark fish)
-- Shachihoko (Beast fish)
-- Cai Cai-Vilu (Draconic eel)
-- Ala (Mist sea serpent)
-
-### Monster
-Chimera
-
----
-
-### Monster
-Automaton
-
----
-
-### Monster
-Golem
-
----
-
-### Monster
-Homunculus 
-
 - Yalbao (lion-headed multi-armed serpent)
-
 - Popobawa (Devil bat)
 - Harpy
 - Gumyōchō (Twin head crane)
@@ -641,318 +661,44 @@ Homunculus
 - Valravn (Giant wolf crow beast)
 - Chamrosh (Winged wolf)
 
-## Introduction
-
-
-## Known Beasts
-### Mountain Hawk
-Large bird of prey that takes nests in high mountanous regions. It uses its steel like talons to sculpt out mountains for its nests. It will feed its chicks small goats and other beasts it can fish out of the peaks.
-
----
-
-### Healing Bird
-Medium sized bird that exudes a healing aura from its feathers. The older the bird, the stronger the healing effects from its feathers.
-
----
-
-### Duck
-Small bird that usually lives in small bodies of water. Floats atop the water to hunt for fish below. 
-
----
-
-### Flamingo
-Long legged, pink medium sized bird that has uses its tall stature to stomp and snuff prey in ponds and rivers below.  
-
----
-
-### Crane
-Long legged eastern birds that use its tall stature to catch fish below. 
-
----
-
-### Monster
-Goose
-
----
-
-### Hawk
-Medium sized bird of prey that dwells within forests. This bird uses its fast speeds and sharp talons to hunt beasts that also dwell in the forest and fields.
-
----
-
-### Desert Scavenger
-Large bird native to arid regions. The Desert Scavenger will scour the earth looking for carcassuses and corpses. It will hover above a likely target waiting for the perfect opprotunity to feast.  
-
----
-
-### Shield Bird
-Small, quick bird that when imprints on another, will ferociously protect and defend them with its life.
-
----
-
-### Flare hawk
-Medium sized bird that takes up residence in hot regions. Its feathers are imbued at birth with fire mana, allowing it to burst into flames when in danger.
-
----
-
-### Poisonous Bird
-Small bird that secrets a natural poison from its body that coats its feathers. This casues it to emit a dangerous cloud of poison when around.
-
----
-
-### Monster
-Nachtkrapp (Golem vulture)
-
----
-
-### Monster
-Gagana (Steeled bird)
-
----
-
-### Monster
-Bennu (Desert crane)
-
----
-
-### Monster
-Roc (Giant hawk)
-
----
-
-### Monster
-Three-legged bird (3 leg crow)
-
----
-
-### Monster
-anqa (4-winged keeper)
-
----
-
-### Monster
-Vermilion Bird (Blood red bird)
-
----
-
-### Monster
-Rain Bird (blue bird that culls storms)
-
----
-
-### Monster
-Double-headed eagle (Twin headed bird)
-
----
-
-### Quadzal 
-The quadzel is a giant bird that has the split ability of controlling 2 elements.
-
----
-
-### Monster
-Vucub Caquix (large evil Jungle parrot)
-
----
-
-### Monster
-Hummingbird
-
----
-
-### Monster
-Raven
-
----
-
-### Monster
-Crow
-
----
-
-### Monster
-Robin
-
----
-
-### Monster
-Bluejay
-
----
-
-### Monster
-Parrot
-
----
-
-### Monster
-Griffin
-
----
-
-### Alicagel 
-The alicagel is a bird that emits a certain radiance due to the different type of metal that it consumes.
-
----
-
-### Fengzak 
-The fengzak is a peacock like bird that has metal like feathers adorning their tail and wing feathers
-
----
-
-### Rordmadra 
-Rordmadra is a six winged storm bird that only appears when a great storm occurs. Many say that  due to the beat of its wings, small storms evolve to massive ones.
-
-
-<br/>
-
-
-## Named Beasts
-
-
-### Jirreun
-The jirreun is a large white bird beast that has the moniker of “man hunter”. The bird steals the face of its last prey. This human-face ability is used to disorient its next target.
-
----
-
-### Gowineyes 
-Gowineyes is a gigantic four-winged bird beast that settles on the tallest peaks. This great bird acts as the peacekeeper of the mountains, quelling all major disturbances to the area.
-
----
-
-### Błudnik
-Błudnik (White griffin)
-
-The caine is a dog beast that is smaller than a wolve that is commonly domesticated for hunting purposes.
-
----
-
-### Lye on
-Lion
-
----
-
-### Tigreer
-Tiger
-
----
-
-### Threshuma
-Puma
-
----
-
-### Feneke
-Fox
-
----
-
-### Monster
+Caine
+Lyeon
+Tigreer
+Threshuma
+Feneke
 Hyena
-
----
-
-### Jagyion
-Jaguar
-
----
-
-### Caprical
-Goat
-
----
-
-### Oviterre 
-The oviterre remains in mountainous areas and is fond of raising special flowers. (Mountain goat)
-
----
-
-### Mowool
-Sheep
-
----
-
-### Honbear
-Bear
-
----
-
-### Eiknoll
-The eiknoll is a deer beast that is covered head to hoof in a large shag pelt that keeps it warm in Torfrost’s harsh enviroment. (elk)
-
----
-
-### Giantnoll
-Moose
-
----
-
-### Wolitzol
-Wolf
-
----
-
-### Stontaur 
-Stontaur is a large bovine beast that is largely covered in hard stones.
-
----
-
-### bull
-Bull
-
----
-
-### Hornbit 
-The hornbit is a horned rabbit beast that uses its horns to retrieve fruits growing in high places. (rabbit)
-
----
-
-### Monster
+Jagyion
+Caprical
+Oviterre 
+Mowool
+Honbear
+Eiknoll
+Giantnoll
+Wolitzol
+Stontaur 
+bull
+Hornbit 
 Horse
-
----
-
-### Borswine
-The borswine is a spiked swinal beast that tastes great on a low simmer. (Boar)
-
----
-
-### Hippoar
-The hippoar claims kingship of the waters of the great savanna. (Hippo)
-
----
-
-### Monkree
-The monkree maintains its dominance within the trees of the land. (Monkey)
-
----
-
-### Monster
+Borswine
+Hippoar
+Monkree
 Orangatan
-
----
-
-### Monster
 Gorilla
-
----
-
-### Monster
 Cougar
 
 ---
 
-### Monster
+
 Tasmaine Devil
 
 ---
 
-### Monster
+
 Badger
 
 ---
 
-### Monster
+
 Lynx
 
 ---
@@ -962,7 +708,7 @@ The karkron is a beefy horned rhinock beast that mainly resides in the Sunbarren
 
 ---
 
-### Monster
+
 Mandrill
 
 ---
@@ -972,47 +718,47 @@ The eleont boasts the one of the largest beastial masses on the land (Elephant)
 
 ---
 
-### Monster
+
 Bison
 
 ---
 
-### Monster
+
 Squirrel
 
 ---
 
-### Monster
+
 deer 
 
 ---
 
-### Monster
+
 Cat
 
 ---
 
-### Monster
+
 Reindeer
 
 ---
 
-### Monster
+
 Raccoon
 
 ---
 
-### Monster
+
 Skunk
 
 ---
 
-### Monster
+
 Panther
 
 ---
 
-### Monster
+
 Snow Fox
 
 ---
@@ -1022,77 +768,77 @@ The threshuma is a cat beast that has an iron like ball apendage at the end of i
 
 ---
 
-### Monster
+
 Ocelot
 
 ---
 
-### Monster
+
 Walrus
 
 ---
 
-### Monster
+
 Beaver
 
 ---
 
-### Monster
+
 Gopher
 
 ---
 
-### Monster
+
 Otter
 
 ---
 
-### Monster
+
 Koala
 
 ---
 
-### Monster
+
 Panda
 
 ---
 
-### Monster
+
 Weazel
 
 ---
 
-### Monster
+
 Rat
 
 ---
 
-### Monster
+
 Coyote
 
 ---
 
-### Monster
+
 Chimp
 
 ---
 
-### Monster
+
 Ice Wolf
 
 ---
 
-### Monster
+
 Polar Bear
 
 ---
 
-### Monster
+
 Cheetah
 
 ---
 
-### Monster
+
 Llama
 
 ---
@@ -1221,18 +967,14 @@ Carbunckle (Jewel flame fox)
 
 ---
 
-### Monster
+
 Gargoyle
 
 ---
 
-### Monster
+
 Asag (Rockfire titan)
-
-### Monster
 Gargouille (Desert stone golem statue)
-
-### Monster
 Bulgasari (Giant bone-rock behemoth titan)
 
 - Bigfoot (Forest Yeti)
@@ -1257,87 +999,87 @@ Bulgasari (Giant bone-rock behemoth titan)
 
 
 ## Known Beasts
-### Monster
+
 Goblin
 
 ---
 
-### Monster
+
 Hobgoblin
 
 ---
 
-### Monster
+
 Yeti
 
 ---
 
-### Monster
+
 Siren
 
 ---
 
-### Monster
+
 Kobold
 
 ---
 
-### Monster
+
 Cyclops
 
 ---
 
-### Monster
+
 Gnome
 
 ---
 
-### Monster
+
 Minotaur
 
 ---
 
-### Monster
+
 Centaur
 
 ---
 
-### Monster
+
 Troll
 
 ---
 
-### Monster
+
 Werewolf
 
 ---
 
-### Monster
+
 Hibagon (Bipedal white mountain orangatan)
 
 ---
 
-### Monster
+
 Kappa (feral Turtlkin)
 
 ---
 
-### Monster
+
 Zhu Bajie (pigkin warrior
 
 ---
 
-### Monster
+
 Tengu (birdman warrior)
 
 ---
 
-### Monster
+
 Gurangatch (replikin (gator) warrior)
 
 ---
 
-### Monster
+
 Vanara (Monkey warrior)
 
 
@@ -1347,32 +1089,32 @@ Vanara (Monkey warrior)
 ## Named Beasts
 
 
-### Monster
+
 Ox-Head (Twin beastkin DBoss)
 
 ---
 
-### Monster
+
 Horse-Face (Twin beastkin DBoss)
 
 ---
 
-### Monster
+
 Hrimthurs (frost troll warrior)
 
 ---
 
-### Monster
+
 Chiron (War centaur)
 
 ---
 
-### Monster
+
 Xing Tian (Giant war titan)
 
 ---
 
-### Monster
+
 Geryon (Three faced troll)
 
 - Hekatonkheires (Many appendige demon)
@@ -1388,87 +1130,87 @@ Geryon (Three faced troll)
 
 
 ## Known Beasts
-### Monster
+
 Imp (small flying devil)
 
 ---
 
-### Monster
+
 Hellhound (Evil Dog)
 
 ---
 
-### Monster
+
 Incubus / Succubus (Lust demon)
 
 ---
 
-### Monster
+
 Bak (One eyed beast devil)
 
 ---
 
-### Monster
+
 Daimon (Frost winged devil)
 
 ---
 
-### Monster
+
 Aswang (Ghoul vampire/psuedo vampire)
 
 ---
 
-### Monster
+
 Ijiraq (deer beast devil)
 
 ---
 
-### Monster
+
 Hekatonkheires (Many body (grafted) devil)
 
 ---
 
-### Monster
+
 Cherufe (Lava titan)
 
 ---
 
-### Monster
+
 Orthrus (Lesser cerberus)
 
 ---
 
-### Monster
+
 Namazu (Giant black fish devil)
 
 ---
 
-### Monster
+
 Huodou (Fire breathing wolf)
 
 ---
 
-### Monster
+
 Raróg (fiery demon falcon)
 
 ---
 
-### Monster
+
 Ushi-oni (Horned spider devil)
 
 ---
 
-### Monster
+
 Mothman (Horror man moth)
 
 ---
 
-### Monster
+
 Start
 
 ---
 
-### Monster
+
 Start
 
 
@@ -1478,37 +1220,37 @@ Start
 ## Named Beasts
 
 
-### Monster
+
 Garm (Devil wolf) DBOSS
 
 ---
 
-### Monster
+
 Mandurugo (6-winged fallen angel devil)
 
 ---
 
-### Monster
+
 Yamata no Orochi (9 headed hydra demon)
 
 ---
 
-### Monster
+
 Asura (multi armed strength demon)
 
 ---
 
-### Monster
+
 Cerberus GARD
 
 ---
 
-### Monster
+
 Kamaitachi (White mist fox demon)
 
 ---
 
-### Monster
+
 Sharabha (Lion headed demon warrior)
 
 |                       |                     |                   |                   |                     |                 |                   |                    |                    |                       |    White Being     |    Black Being    |
