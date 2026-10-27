@@ -59,6 +59,47 @@ Blaskam, Wonder of the Depths - APOINTED deep leviathan
 - Hippocampus (Horse fish)
 - Grindylow (Frog squid monster)
 - Loch Ness Monster
+Turtle
+Swordfish
+Shark
+Whale
+Dolphin
+Orca
+Squid
+Octopus
+Swordfish
+Bass
+Salmon
+Eel
+Pretty Fish
+Poisonfish
+Bluedragon
+Jellyfish
+Angler
+Manta Ray
+Crab
+Shrimp
+Lobster
+Large Fish
+Hammer Shark
+Mini Shark
+Mantis Shrimp
+Rockfish
+Pufferfish
+Schoolfish
+Catfish
+World Turtle (Island turtle)
+Karkinos (Giant terror Crab)
+Morgawr (Pleisiasur-like beast)
+Seahorse
+Isonade (Armored shark)
+Zaratan (giant crab w/ top wreck ship)
+Pirranha
+Devil Whale (Moby Dick)
+Kraken BOSS
+Makara (Serpent dragon)
+Bahamut (world whale)
+Charybdis
 
 # Subterranean
 Juggareth - ancient territory juggernaut
@@ -82,6 +123,30 @@ name - CURSED hive queen
 name - APOINTED eye spider
 name - APOINTED holy butterfly
 name - APOINTED swarm
+Beetle
+Mantis
+Bee
+Wasp
+Mosquito
+Dragonfly
+Caterpillar
+Spider
+Trick Spider
+Ant
+Scorpion
+Sun Beetle
+Abatwa (Warrior ant)
+Gold-Digging Ant
+Termite
+Cicada
+Arachne (Spider queen woman)
+Butterfly
+False Butterfly
+Water skitter
+Khepri (Solar beetle)
+Roach
+Scorpion man (BOSS)
+Tsuchigumo (Evil spider)
 
 # Reptilian
 1. turtle
@@ -544,117 +609,6 @@ name - CURSED Black Desert Cobra w/ petrification
 - Cai Cai-Vilu (Draconic eel)
 - Ala (Mist sea serpent)
 
-
-Turtle
-
-Swordfish
-Shark
-Whale
-Dolphin
-Orca
-Squid
-Octopus
-Swordfish
-Bass
-Salmon
-Eel
-Pretty Fish
-Poisonfish
-Bluedragon
-Jellyfish
-Angler
-Manta Ray
-Crab
-Shrimp
-Lobster
-Large Fish
-Hammer Shark
-Mini Shark
-Mantis Shrimp
-Rockfish
-Pufferfish
-Schoolfish
-Catfish
-World Turtle (Island turtle)
-Karkinos (Giant terror Crab)
-Morgawr (Pleisiasur-like beast)
-
----
-
-### Monster
-Seahorse
-
----
-
-### Monster
-Isonade (Armored shark)
-
----
-
-### Monster
-Zaratan (giant crab w/ top wreck ship)
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Pirranha
-
-
-<br/>
-
-
-## Named Beasts
-
-
-### Monster
-Devil Whale (Moby Dick)
-
----
-
-### Monster
-Kraken BOSS
-
----
-
-### Monster
-Makara (Serpent dragon)
-
----
-
-### Monster
-Bahamut (world whale)
-
----
-
-### Monster
-Charybdis
-
-
 ### Monster
 Chimera
 
@@ -672,72 +626,6 @@ Golem
 
 ### Monster
 Homunculus 
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
-
-<br/>
-
-
-## Named Beasts
-
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
 
 - Yalbao (lion-headed multi-armed serpent)
 
@@ -1316,23 +1204,6 @@ Juggareth is an ancient beast that is extremely territorial. It behaves as the p
 ### Kahlverd
 Is a threat of a beast. It escaped from captivity through a massacre and is now roaming the countryside.
 
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
 ### Wulgrinn the Jagged
 Wulgrinn is an elusive giant lightning wolve that appears rarely when a destructive storm appears. No one has ever gotten a good view of this famous beast and lived to tell the tale.
 
@@ -1358,82 +1229,8 @@ Gargoyle
 ### Monster
 Asag (Rockfire titan)
 
----
-
-### Monster
-Start
-
----
-
 ### Monster
 Gargouille (Desert stone golem statue)
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
-
-<br/>
-
-
-## Named Beasts
-
 
 ### Monster
 Bulgasari (Giant bone-rock behemoth titan)
@@ -1713,162 +1510,6 @@ Kamaitachi (White mist fox demon)
 
 ### Monster
 Sharabha (Lion headed demon warrior)
-
-Beetle
-
----
-
-### Monster
-Mantis
-
----
-
-### Monster
-Bee
-
----
-
-### Monster
-Wasp
-
----
-
-### Monster
-Mosquito
-
----
-
-### Monster
-Dragonfly
-
----
-
-### Monster
-Caterpillar
-
----
-
-### Monster
-Spider
-
----
-
-### Monster
-Trick Spider
-
----
-
-### Monster
-Ant
-
----
-
-### Monster
-Scorpion
-
----
-
-### Monster
-Sun Beetle
-
----
-
-### Monster
-Abatwa (Warrior ant)
-
----
-
-### Monster
-Gold-Digging Ant
-
----
-
-### Monster
-Termite
-
----
-
-### Monster
-Cicada
-
----
-
-### Monster
-Arachne (Spider queen woman)
-
----
-
-### Monster
-Butterfly
-
----
-
-### Monster
-False Butterfly
-
----
-
-### Monster
-Water skitter
-
----
-
-### Monster
-Khepri (Solar beetle)
-
----
-
-### Monster
-Roach
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
----
-
-### Monster
-Start
-
-<br/>
-
-
-## Named Beasts
-
-
-### Monster
-Scorpion man (BOSS)
-
----
-
-### Monster
-Tsuchigumo (Evil spider)
 
 |                       |                     |                   |                   |                     |                 |                   |                    |                    |                       |    White Being     |    Black Being    |
 |    EX     |                 |                |                  |     Modaraithu     |                  |                 |                    |                       |                     |                   |                   |                     |                 |                   |                    |                    |                       |                    |      Balbis       |
